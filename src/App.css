@@ -33,8 +33,7 @@ body {
   background: url("img/polygon.jpg") center center no-repeat;
   background-blend-mode: multiply;
   background-color: #484747;
-  border: 2px solid #1f1f1f;
-  border-right: 2px solid #131e29;
+  border: 2px solid #fff;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -47,9 +46,7 @@ body {
   height: 55vh;
   padding-top: 100px;
   padding-left: 50px;
-  border-top: 2px solid #113a65;
-  border-bottom: 2px solid #113a65;
-  border-right: 2px solid #113a65;
+  border: 2px solid #fff;
 }
 
 input[type="text"] {
